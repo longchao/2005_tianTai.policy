@@ -69,7 +69,6 @@ const AUDIT_REQ = {
         "extra":    [1, 1, 1, 1, 0, 1, 1, 1],
     }
 };
-};
 
 // const TEST_CASE = {
 //     "amount": "21-50",
