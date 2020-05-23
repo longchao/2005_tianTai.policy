@@ -20,16 +20,16 @@ const AUDIT_REQ = {
         "kjht":     [1, 1, 0, 1, 0, 1, 1, 1],
         "yh":       [1, 1, 0, 1, 0, 1, 1, 1],
     },
-    "purchase_type”: {
+    "purchase_type": {
         "ddgys":    [1, 1, 0, 1, 0, 0, 0, 0],
         "lscg":     [1, 1, 0, 1, 0, 1, 1, 0],
     },
-    "quality_index”: {
+    "quality_index": {
         "gsty":     [0, 0, 0, 0, 0, 0, 0, 0],
         "zdbz":     [1, 0, 0, 0, 1, 1, 1, 0],
         "none":      [1, 0, 0, 0, 0, 1, 0, 0],
     },
-    "shipping_type”: {
+    "shipping_type": {
         "gckzt":    [1, 0, 0, 0, 0, 1, 0, 0],
         "xckys":    [0, 0, 0, 0, 0, 0, 0, 0],
         "xzddd":    [1, 0, 0, 0, 0, 1, 1, 0],
